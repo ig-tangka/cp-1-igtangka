@@ -1,7 +1,5 @@
 package com.igtangka.kotlin
 
-import java.io.File
-
 data class Answer(val number: Int, val answer: Char)
 
 data class ArrayNum (val index: Int, val value: Char)
