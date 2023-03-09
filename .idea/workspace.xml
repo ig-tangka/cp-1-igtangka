@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a8da2f6-ca97-40d7-b935-a374ef54dac1" name="Changes" comment="" />
+    <list default="true" id="3a8da2f6-ca97-40d7-b935-a374ef54dac1" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/App2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/App2.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,10 +25,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MkuvdKsXGOgtAWQMqKbbiJZy2M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,6 +86,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678324134040</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1678332474847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678332474847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
