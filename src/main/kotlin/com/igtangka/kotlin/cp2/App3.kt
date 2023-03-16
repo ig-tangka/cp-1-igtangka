@@ -5,7 +5,7 @@ import java.util.Scanner
 fun main() {
     println("Masukkan Kalimat : ")
     val scanner = Scanner(System.`in`)
-    var openQuote = true // flag to track whether we are inside an open quote or not
+    var openQuote = true
 
     while (scanner.hasNextLine()) {
         val line = scanner.nextLine()
@@ -13,7 +13,7 @@ fun main() {
         for (c in line) {
             if (c == '"') {
                 result += if (openQuote) "``" else "''"
-                openQuote = !openQuote // toggle the flag
+                openQuote = !openQuote
             } else {
                 result += c
             }
