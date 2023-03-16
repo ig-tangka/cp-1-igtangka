@@ -1,4 +1,4 @@
-package com.igtangka.kotlin
+package com.igtangka.kotlin.cp1
 
 data class Answer(val number: Int, val answer: Char)
 

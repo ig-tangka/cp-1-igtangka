@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a8da2f6-ca97-40d7-b935-a374ef54dac1" name="Changes" comment="first commit">
+    <list default="true" id="3a8da2f6-ca97-40d7-b935-a374ef54dac1" name="Changes" comment="simple edit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp2/App1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp2/App2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp2/App3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp2/App4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp1/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/App2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp1/App2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/testdata.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp1/testdata.in" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +54,49 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.App2Kt">
-    <configuration name="App2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.App2Kt" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ignat\Documents\@ De La Salle University\Semester 6\Mobile Programming\cp-1\src\main\kotlin\com\igtangka\kotlin\cp1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.App3Kt">
+    <configuration name="App1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.cp2.App1Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.cp2.App2Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.cp2.App3Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.cp2.App4Kt" />
       <module name="cp-1.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="AppKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.AppKt" />
+      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.cp2.AppKt" />
       <module name="cp-1.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cp.AppKt" />
+      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.cp1.AppKt" />
       <module name="cp-1.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,9 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.App2Kt" />
+        <item itemvalue="Kotlin.App3Kt" />
+        <item itemvalue="Kotlin.App2Kt (1)" />
+        <item itemvalue="Kotlin.App1Kt" />
+        <item itemvalue="Kotlin.App4Kt" />
         <item itemvalue="Kotlin.AppKt (1)" />
-        <item itemvalue="Kotlin.AppKt" />
       </list>
     </recent_temporary>
   </component>
@@ -100,11 +135,27 @@
       <option name="project" value="LOCAL" />
       <updated>1678332663782</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1678333533892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678333533892</updated>
+    </task>
+    <task id="LOCAL-00004" summary="simple edit">
+      <created>1678333585660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678333585660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="simple edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple edit" />
   </component>
 </project>
