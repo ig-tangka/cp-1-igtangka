@@ -2,7 +2,7 @@ package com.igtangka.kotlin.cp3
 
 import kotlin.math.abs
 
-fun compareModulo(num1: Int, num2: Int, mod: Int): Int {
+fun compareModule(num1: Int, num2: Int, mod: Int): Int {
     val mod1 = if (num1 < 0) abs(num1) % mod else num1 % mod
     val mod2 = if (num2 < 0) abs(num2) % mod else num2 % mod
     if (mod1 < mod2) {
@@ -31,7 +31,7 @@ fun main() {
             numbers.add(readLine()!!.toInt())
         }
         numbers.sortWith(Comparator { num1, num2 ->
-            compareModulo(num1, num2, m)
+            compareModule(num1, num2, m)
         })
         val t = readLine()
         println("$n $m")
