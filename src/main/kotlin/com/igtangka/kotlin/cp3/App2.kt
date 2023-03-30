@@ -31,5 +31,4 @@ fun main(args: Array<String>) {
         val result = if (symmetric) "Symmetric." else "Non-symmetric."
         println("Test #$i: $result")
     }
-
 }
