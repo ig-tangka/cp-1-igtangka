@@ -7,6 +7,7 @@ fun main(args: Array<String>) {
     val t = scanner.nextInt()
 
     for (i in 1..t) {
+        print("N = ")
         val n = scanner.nextInt()
         val matrix = Array(n) { IntArray(n) }
 
