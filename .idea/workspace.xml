@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a8da2f6-ca97-40d7-b935-a374ef54dac1" name="Changes" comment="third commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp3/App1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp3/App1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,14 @@
       <recent name="C:\Users\ignat\Documents\@ De La Salle University\Semester 6\Mobile Programming\cp-1\src\main\kotlin\com\igtangka\kotlin\cp1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.App1Kt (1)">
+    <configuration name="App1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.cp3.App1Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.cp2.App1Kt" />
       <module name="cp-1.main" />
@@ -98,20 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.igtangka.kotlin.cp2.App4Kt" />
-      <module name="cp-1.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.App2Kt" />
+        <item itemvalue="Kotlin.App1Kt (1)" />
         <item itemvalue="Kotlin.App1Kt" />
+        <item itemvalue="Kotlin.App2Kt" />
         <item itemvalue="Kotlin.App2Kt (1)" />
         <item itemvalue="Kotlin.App3Kt" />
-        <item itemvalue="Kotlin.App4Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680140116854</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="third commit">
+      <created>1680140260835</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680140260835</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
