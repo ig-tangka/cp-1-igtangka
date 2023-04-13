@@ -3,7 +3,6 @@ package com.igtangka.kotlin.cp4
 import kotlin.math.pow
 
 fun main() {
-//    println("Enter the number of test cases:")
     var nCnt: Int = readLine()!!.toInt()
 
     if (nCnt < 0 || nCnt > 1000) {
@@ -13,7 +12,6 @@ fun main() {
     val results = mutableListOf<Pair<Int, Int>>()
 
     while (nCnt > 0) {
-//        println("Enter a number to encrypt:")
         val input: Int = readLine()!!.toInt()
 
         if (input < 0 || input > 9999) {
@@ -54,7 +52,6 @@ fun main() {
         nCnt--
     }
 
-//    println("Results:")
     results.forEach { (b1, b2) ->
         println("$b1 $b2")
     }
