@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3a8da2f6-ca97-40d7-b935-a374ef54dac1" name="Changes" comment="simple edit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp3/App2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/igtangka/kotlin/cp3/App2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.App1Kt (1)" />
         <item itemvalue="Kotlin.App1Kt" />
+        <item itemvalue="Kotlin.App1Kt (1)" />
         <item itemvalue="Kotlin.App2Kt" />
         <item itemvalue="Kotlin.App2Kt (1)" />
         <item itemvalue="Kotlin.App3Kt" />
@@ -209,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680141962601</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="simple edit">
+      <created>1680142499875</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680142499875</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
